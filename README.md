@@ -1,4 +1,4 @@
 # WordSearch
 Basic Android Word Search
 
-!(Screenshot)[https://imgur.com/a/TVm2XsT]
+![Screenshot](https://i.imgur.com/x0PvoVo.jpg?1)
